@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi Guysss 👋
 
+Perkenalkan nama saya **Muhammad Reynaldo Aulia Rachman**.<br>
+
+Saya seorang **Mahasiswa** di [Universitas Singaperbangsa Karawang](https://www.unsika.ac.id/).<br>
+
+Saya sedang menyelesaikan perkuliahan saya di Program Studi Informatika Fakultas Ilmu Komputer Universitas Singaperbangsa Karawang (semester 5)<br>
+
+dan saya sekarang sedang mendalami bidang Mobile Developer melalu program Studi Independent di [Dicoding](https://www.dicoding.com/).
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/muhammadreynaldoauliarachman) ku ya.
 <!--
 **mreynaldo/mreynaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
